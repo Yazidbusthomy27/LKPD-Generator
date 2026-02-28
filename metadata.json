@@ -1,0 +1,5 @@
+{
+  "name": "Generator LKPD Kurikulum Merdeka",
+  "description": "Aplikasi generator LKPD otomatis berbasis Kurikulum Merdeka untuk guru SD, SMP, SMA, dan SMK.",
+  "requestFramePermissions": []
+}
